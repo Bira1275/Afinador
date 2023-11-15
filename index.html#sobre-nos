@@ -9,9 +9,9 @@
 <body>
     <!-- Navegação -->
     <nav>
-     <ul>
-        <li><a href="/index.html">Início</a></li>
-        <li><a href="/sobre.html">Sobre Nós</a></li>
+        <ul>
+            <li><a href="/index.html">Início</a></li>
+            <li><a href="/sobre.html">Sobre Nós</a></li>
        </ul>
     </nav>
 
@@ -20,9 +20,11 @@
           <!-- Conteúdo específico de cada página vai aqui -->
           Para afinar (temperar)um instrumento de muitas cordas como o piano, é preciso ter em conta o espectro sonoro (pois o piano abrange quase a totalidade)
           e com isso obedecer as leis físicas que o regem 
- <!-- Adicione uma ID à seção que deseja linkar -->
+          <!-- Adicione uma ID à seção que deseja linkar -->
           <section id="sobre-nos">
-              <h2>Sobre Nós</h2>
-              <p>Texto sobre nós...</p>
-          </section>
+            <h2>Sobre Nós</h2>
+            <p>Texto sobre nós...</p>
+        </section>
+  </div>
+    
     </div>
